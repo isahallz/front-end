@@ -1,6 +1,14 @@
 body{
- margin: 0;
- padding:
-background-color:pink
+    padding: 0;
+    margin: 0;
+    background-color: pink;
 }
- 
+
+header,footer{
+    width: 100%;
+    background-color: aqua;
+}
+
+head {
+    
+}
