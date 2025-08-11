@@ -6,9 +6,14 @@ body{
 
 header,footer{
     width: 100%;
-    background-color: aqua;
+    background-color: black;
 }
-
-head {
-    
+ header {
+  height: 15vh; 
+ }
+footer{ 
+    height: 5vh; 
+}
+contprincipal {
+     display :flex
 }
